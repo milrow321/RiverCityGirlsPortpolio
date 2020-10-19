@@ -1,0 +1,17 @@
+#pragma once
+
+#include "Object.h"
+#include "DeskObject.h"
+#include "PillarObject.h"
+#include "BoxObject.h"
+#include "MrRudis.h"
+#include "SchoolStudent.h"
+#include "WorkingFemaleA.h"
+#include "WorkingMaleD.h"
+#include "TableObject.h"
+#include "ChairObject.h"
+#include "TeacherTableObject.h"
+#include "SnackMachineObject.h"
+#include "ParticleObject.h"
+#include "FoodObject.h"
+#include "MoneyObject.h"

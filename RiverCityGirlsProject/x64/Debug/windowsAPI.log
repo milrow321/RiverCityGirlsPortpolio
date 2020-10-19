@@ -1,0 +1,318 @@
+﻿  stdafx.cpp
+  Animation.cpp
+  Boss.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(58): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(90): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(112): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(307): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(432): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(485): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(544): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(597): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(601): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(796): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(799): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(973): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(977): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\boss.cpp(981): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BossStage.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(16): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(54): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(76): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(133): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(134): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\bossstage.cpp(155): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BoxObject.cpp
+  CameraEvent.cpp
+  CameraManager.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\cameramanager.cpp(277): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cameramanager.cpp(289): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cameramanager.cpp(317): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cameramanager.cpp(329): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cameramanager.cpp(360): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cameramanager.cpp(472): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CameraShakeEvent.cpp
+  CheerGirl.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cheergirl.cpp(574): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cheergirl.cpp(670): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\cheergirl.cpp(676): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collision.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\collision.cpp(167): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\collision.cpp(168): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\collision.cpp(169): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\collision.cpp(170): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  D2DRenderer+Draw.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(34): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(39): warning C4267: '=': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(81): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(86): warning C4267: '=': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(132): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(137): warning C4267: '=': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(180): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer+draw.cpp(185): warning C4267: '=': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  D2DRenderer.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer.cpp(90): warning C4244: '초기화 중': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\d2drenderer.cpp(91): warning C4244: '초기화 중': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ChairObject.cpp
+  DebugManager.cpp
+  DeskObject.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\deskobject.cpp(76): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\deskobject.cpp(75): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\deskobject.cpp(76): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DialogueManager.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\dialoguemanager.cpp(26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\dialoguemanager.cpp(69): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\dialoguemanager.cpp(165): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\dialoguemanager.cpp(164): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\dialoguemanager.cpp(205): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\dialoguemanager.cpp(226): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Effect.cpp
+  EffectManager.cpp
+  Enemy.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EnemyManager.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FloatRect.cpp
+  코드를 생성하고 있습니다...
+c:\users\kga_16\documents\rivercitygirlsproject\collision.cpp(82): warning C4715: 'TTYONE_UTIL::checkPointInCircle': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  FoodObject.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\foodobject.cpp(8): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameNode.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\gamenode.cpp(99): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\gamenode.cpp(100): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\gamenode.cpp(93): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\kga_16\documents\rivercitygirlsproject\gamenode.cpp(92): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  GameObject.cpp
+  getHitState.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\gethitstate.cpp(29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\gethitstate.cpp(66): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\gethitstate.cpp(96): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\gethitstate.cpp(172): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  GuardState.cpp
+  IdleState.cpp
+  Image.cpp
+  ImageManager.cpp
+  JumpState.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\jumpstate.cpp(198): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyManager.cpp
+  LinearFunc.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\linearfunc.cpp(53): warning C4305: '=': 'const int'에서 'float'(으)로 잘립니다.
+  MainScene.cpp
+  MoneyObject.cpp
+  MrRudis.cpp
+  MiddleStage.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(19): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(11): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(16): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(83): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(85): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(251): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(252): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\middlestage.cpp(281): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object.cpp
+  ObjectManager.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ParticleObject.cpp
+  PillarObject.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\pillarobject.cpp(22): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\pillarobject.cpp(21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\pillarobject.cpp(22): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\player.cpp(136): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\kga_16\documents\rivercitygirlsproject\player.cpp(159): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\kga_16\documents\rivercitygirlsproject\player.cpp(180): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\player.cpp(195): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  PlayerState.cpp
+  PlayGround.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\stagescene.h(3): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ProgressBar.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\progressbar.cpp(21): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RestrictMoveLine.cpp
+  RestrictMoveRect.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RunState.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\runstate.cpp(16): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\runstate.cpp(21): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\runstate.cpp(27): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\runstate.cpp(32): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  SceneManager.cpp
+  SchoolBoy.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolboy.cpp(590): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolboy.cpp(597): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolboy.cpp(623): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolboy.cpp(629): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolboy.cpp(634): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SchoolStudent.cpp
+  SchoolGirl.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolgirl.cpp(538): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolgirl.cpp(637): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\schoolgirl.cpp(643): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SnackMachineObject.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\snackmachineobject.cpp(21): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\snackmachineobject.cpp(20): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\snackmachineobject.cpp(21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\snackmachineobject.cpp(80): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  SoundManager.cpp
+  Stage.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\stage.cpp(63): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\stage.cpp(64): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\stage.cpp(188): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageManager.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageScene.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\stagescene.h(3): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StartStage.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\enemymanager.h(45): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\startstage.cpp(15): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\startstage.cpp(12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\startstage.cpp(13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\startstage.cpp(14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\startstage.cpp(54): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\startstage.cpp(139): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\startstage.cpp(140): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StartState.cpp
+  TableObject.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TeacherTableObject.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\restrictmoverect.h(52): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\teachertableobject.cpp(14): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_16\documents\rivercitygirlsproject\teachertableobject.cpp(13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\teachertableobject.cpp(14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimeManager.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\timemanager.cpp(49): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\timemanager.cpp(52): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\timemanager.cpp(55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\kga_16\documents\rivercitygirlsproject\schoolgirl.cpp(657): warning C4715: 'SchoolGirl::hitEffect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Timer.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\timer.cpp(61): warning C4244: '=': 'float'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TxtData.cpp
+  UIManager.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(208): warning C4144: '<': 관계식을 switch 식으로 사용했습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(407): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(409): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(451): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(495): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(507): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kga_16\documents\rivercitygirlsproject\uimanager.h(518): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Utils.cpp
+  Vector2.cpp
+  Vector3.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\vector3.cpp(14): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WalkState.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\walkstate.cpp(100): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  AttackState.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\attackstate.cpp(86): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\attackstate.cpp(275): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\attackstate.cpp(528): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\attackstate.cpp(570): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kga_16\documents\rivercitygirlsproject\attackstate.cpp(717): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  windowsAPI.cpp
+c:\users\kga_16\documents\rivercitygirlsproject\windowsapi.cpp(96): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WorkingFemaleA.cpp
+  WorkingMaleD.cpp
+  코드를 생성하고 있습니다...
+c:\users\kga_16\documents\rivercitygirlsproject\txtdata.cpp(57): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  windowsAPI.vcxproj -> C:\Users\KGA_16\Documents\RiverCityGirlsProject\x64\Debug\windowsAPI.exe
